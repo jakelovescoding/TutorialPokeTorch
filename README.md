@@ -5,7 +5,7 @@ A farm bot for Pokemeow. Solves captcha with custom trained weights with YOLOv5 
 Youtube Channel : https://www.youtube.com/channel/UCHh6ndnVUl-jkQpvqRsFtvg
 Discord server : https://discord.gg/WKxyj3x5Ch
 
-# 1. Purchase PokeTorch from sellix shop.
+### Purchase PokeTorch from sellix shop.
 
 Sellix shop : https://poketorch.sellix.io/
 
