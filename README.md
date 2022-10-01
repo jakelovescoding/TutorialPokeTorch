@@ -3,15 +3,17 @@
 A farm bot for Pokemeow. Solves captcha with custom trained weights with YOLOv5 and PyTorch. 
 
 Youtube Channel : https://www.youtube.com/channel/UCHh6ndnVUl-jkQpvqRsFtvg
+Discord server : https://discord.gg/WKxyj3x5Ch
+
+# 1. Purchase PokeTorch from sellix shop.
+
+Sellix shop : https://poketorch.sellix.io/
+
+After purchase, join the discord server and open a ticket. Screenshot the invoice of the purchase and send a picture in the ticket. I will send a zip file containing PokeTorch.
 
 ### Prerequisites :
-- Install latest version of from microsoft store. https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
-- Install Git https://git-scm.com/downloads
-- On Ubuntu: sudo apt install libgl1-mesa-glx
-
-### Install Visual C++ Redistributable
-
-Link: https://aka.ms/vs/16/release/vc_redist.x64.exe
+- Install python3.10 from microsoft store: https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=US
+- Install Visual C++ Redistributable: https://aka.ms/vs/16/release/vc_redist.x64.exe
 
 ### Enable Long Paths in Windows Powershell (Run as Administrator):
 
@@ -21,11 +23,13 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name
 
 ### Installation with terminal :
 
-```
-# Drag PokeTorch-main.zip onto Desktop and double click on it.
+1. Drag the zip file from the downloads folder onto your desktop. Double click on the zip file and extract it onto the desktop.
 
+2. Open terminal. Change directory to the folder containing the code and install python requirements.
+
+```
 # Open terminal and change directory
-cd PokeTorch-main
+cd Desktop/PokeTorch-main
 
 # Install python requirements
 python -m pip install -r requirements.txt
@@ -33,7 +37,7 @@ python -m pip install -r requirements.txt
 ```
 
 
-### Edit config.py
+3. Edit the config file in the folder.
 
 Authorization:
 
