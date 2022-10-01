@@ -26,15 +26,9 @@ New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name
 
 1. Drag the zip file from the downloads folder onto your desktop. Double click on the zip file and extract it onto the desktop.
 
-2. Open terminal. Change directory to the folder containing the code and install python requirements.
-
+2. Once in the file, open cmd and type:
 ```
-# Open terminal and change directory
-cd Desktop/PokeTorch-main
-
-# Install python requirements
 python -m pip install -r requirements.txt
-
 ```
 
 
