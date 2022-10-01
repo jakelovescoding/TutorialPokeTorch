@@ -3,6 +3,7 @@
 A farm bot for Pokemeow. Solves captcha with custom trained weights with YOLOv5 and PyTorch. 
 
 Youtube Channel : https://www.youtube.com/channel/UCHh6ndnVUl-jkQpvqRsFtvg
+
 Discord server : https://discord.gg/WKxyj3x5Ch
 
 ### Purchase PokeTorch from sellix shop.
